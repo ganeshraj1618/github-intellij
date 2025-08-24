@@ -1,4 +1,4 @@
-public class  Hello
+public class Hello
 {
     public static void main(String args[])
     {
@@ -11,6 +11,6 @@ public class  Hello
         sb.deleteCharAt(3);        // delete character
         System.out.println(sb.capacity());// capacity of the string
         System.out.println(sb);
-
+        System.out.println("wtf is happening , oh i think i get it now ");
     }
 }
